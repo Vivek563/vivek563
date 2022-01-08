@@ -5,7 +5,7 @@
 <h1 align="center">Hi,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Vivek Maurya, Android and Web Developer</h1>
 
 
-<h3 align="center">Currently, I am a student pursuing my Master's Degree from University of Allahabad.</h3>
+<h3 align="center">Currently, I am a student pursuing my Master's Degree(MCA) from University of Allahabad.</h3>
 
 
 ## 🤓About Me 
