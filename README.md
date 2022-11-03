@@ -67,8 +67,8 @@
 
 
 ## Views and Followers
-<a href="https://github.com/mayurpai/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=mayurpai">
+<a href="https://github.com/vivek563/github-profile-views-counter">
+ <img src="https://komarev.com/ghpvc/?username=vivek563&color=green">
 </a>
 <a href="https://github.com/vivek563?tab=followers"><img src="https://img.shields.io/github/followers/vivek563?label=Followers&style=social" alt="GitHub Badge"></a>
  
