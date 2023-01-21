@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Vivek563/vivek563/blob/9ff86b02ac1a42188561d86ccfde244dddc04198/%E2%80%94Pngtree%E2%80%94boy%20work%20from%20home%20with_5424728.png" height="375px" width="375px"/>
+<img src="https://github.com/Vivek563/vivek563/blob/aa156e646538d32d84fa81d7e5e18c626db0bb6c/vivek.png" height="375px" width="375px"/>
 </div>
  
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vivek Maurya</h1>
