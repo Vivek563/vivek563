@@ -9,7 +9,7 @@
 
 
 # 💫 About Me:
-I'm currently working on FullStack Project.<br>I'm currently learning React.<br>Open Source Projects are something I'd like to work on.<br>Interested in exploring the possibilities of *Android Development
+Passionate about creating comprehensive solutions, I'm immersed in a FullStack project, honing my skills in React while also nurturing a strong affinity for open-source endeavors. As I embrace the realm of Android Development, I'm eagerly unraveling diverse possibilities to contribute, innovate, and collaborate.
 
 
 ## 🌐 Socials:
