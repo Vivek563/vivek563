@@ -9,7 +9,10 @@
 
 
 # 💫 About Me:
-Passionate about creating comprehensive solutions, I'm immersed in a FullStack project, honing my skills in React while also nurturing a strong affinity for open-source endeavors. As I embrace the realm of Android Development, I'm eagerly unraveling diverse possibilities to contribute, innovate, and collaborate.
+• My time is consistently occupied with cool projects.
+• I’m currently learning TypeScript 💻
+• Fun fact: I've taken so many photos that my memory card needed a vacation.
+• I'm always open to have a chit-chat with you :)
 
 
 ## 🌐 Socials:
