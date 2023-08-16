@@ -8,11 +8,11 @@
 <h3 align="center">Inquisitive: An engaging Android frontend application designed to spark curiosity and encourage exploration.</h3>
 
 
-# 💫 About Me:
-• My time is consistently occupied with cool projects.
-• I’m currently learning TypeScript 💻
-• Fun fact: I've taken so many photos that my memory card needed a vacation.
-• I'm always open to have a chit-chat with you :)
+# 💫 About Me: </br>
+• My time is consistently occupied with cool projects.</br>
+• I’m currently learning TypeScript 💻</br>
+• Fun fact: I've taken so many photos that my memory card needed a vacation.</br>
+• I'm always open to have a chit-chat with you :)</br>
 
 
 ## 🌐 Socials:
