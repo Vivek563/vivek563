@@ -10,7 +10,7 @@
 
 # 💫 About Me: </br>
 • My time is consistently occupied with cool projects.</br>
-• I’m currently learning TypeScript 💻</br>
+• I’m currently learning Next.js & TypeScript 💻</br>
 • Fun fact: I've taken so many photos that my memory card needed a vacation.</br>
 • I'm always open to have a chit-chat with you :)</br>
 
