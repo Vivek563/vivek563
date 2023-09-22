@@ -8,7 +8,7 @@
 <h3 align="center">Inquisitive: An engaging Android and Frontend application designed to spark curiosity and encourage exploration.</h3>
 
 
-# 💫 About Me: </br>
+# 💫 About Me:
 • My time is consistently occupied with cool projects.</br>
 • I’m currently learning Next.js & TypeScript 💻</br>
 • Fun fact: I've taken so many photos that my memory card needed a vacation.</br>
@@ -26,14 +26,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vivek563&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek563&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-
-### Thanks for Visiting my GitHub Profile!
-
----
 
 
 
