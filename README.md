@@ -2,10 +2,10 @@
 <img src="https://firebasestorage.googleapis.com/v0/b/bca-note.appspot.com/o/aa.png?alt=media&token=e54ed75c-bd24-4f37-bf88-4ca3049072e2&_gl=1*1rq9i5j*_ga*MzY4NzQ4NTE4LjE2NzkyODU2NDI.*_ga_CW55HF8NVT*MTY5NjMxMDQxNS4zLjEuMTY5NjMxMDQ4NC42MC4wLjA." height="275px" width="275px"/>
 </div>
  
-<h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vivek Maurya</h1>
+<h1 align="center">Hi, I'm Vivek Maurya</h1>
 
 
-<h3 align="center">Inquisitive: An engaging Android and Frontend application designed to spark curiosity and encourage exploration.</h3>
+<h3 align="center">An engaging Android and Frontend application designed to spark curiosity and encourage exploration.</h3>
 
 
 # 💫 About Me:
