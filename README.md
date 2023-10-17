@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Vivek Maurya</h1>
 
 
-<h3 align="center">An engaging Android and Frontend application designed to spark curiosity and encourage exploration.</h3>
+<h3 align="center">A Frontend Developer who caught the Travel Bug!</h3>
 
 
 # 💫 About Me:
