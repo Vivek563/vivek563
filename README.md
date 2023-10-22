@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Vivek Maurya</h1>
 
 
-<h2 align="center">A Frontend Developer who caught the Travel Bug!</h2>
+<h2 align="center">A Developer who caught the Travel Bug!</h2>
 
 
 # 💫 About Me:
