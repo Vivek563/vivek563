@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Vivek Maurya</h1>
 
 
-<h2 align="center">A Developer who caught the Travel Bug!</h2>
+<h2 align="center">My passion is creating, and I find happiness in being a better me today than the me yesterday.</h2>
 
 
 # 💫 About Me:
@@ -13,6 +13,8 @@
 • I’m currently learning Next.js & TypeScript along with Golang💻</br>
 • Fun fact: I've taken so many photos that my memory card needed a vacation.</br>
 • I'm always open to have a chit-chat with you :)</br>
+• PS: I believe that aliens do exist 👽</br>
+
 
 
 ## 🌐 Socials:
