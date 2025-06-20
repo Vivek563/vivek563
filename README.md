@@ -26,7 +26,7 @@
 
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" height="35"> <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" height="35"> <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" height="35"> <img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white" height="35"> <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" height="35"> <img alt="Golang" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white" height="35"> <img alt="Tailwind CSS Badge" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=flat&logo=tailwindcss&logoColor=white" height="35"> <img alt="Shadcn" src="https://img.shields.io/badge/shadcn/ui-%23ff4785.svg?style=flat&logo=storybook&logoColor=white" height="35"> <img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=mui&logoColor=white" height="35"> <img alt="Three.js" src="https://img.shields.io/badge/three.js-black?style=flat&logo=three.js&logoColor=white" height="35"> <img alt="Electron.js" src="https://img.shields.io/badge/electron-%2320232a.svg?style=flat&logo=electron&logoColor=white" height="35">
 
-<img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="500">
+<img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
 
 ### 🧠 AI, APIs, and Integrations:
 
