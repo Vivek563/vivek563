@@ -30,7 +30,7 @@
 
 ### 🧠 AI, APIs, and Integrations:
 
-<img alt="AI" src="https://img.shields.io/badge/Artificial%20Intelligence-%2300BFFF.svg?style=flat&logo=OpenAI&logoColor=white" height="35"> <img alt="RAG" src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blue?style=flat" height="35"> <img alt="Gemini API" src="https://img.shields.io/badge/Real%20Time%20Gemini%20API-%234B8BBE.svg?style=flat" height="35"> <img alt="AI Model Integration" src="https://img.shields.io/badge/AI%20Model%20Integration-%2300BFFF.svg?style=flat" height="35"> <img alt="Multimodal Integration" src="https://img.shields.io/badge/Multimodal%20Integration-%2300C49A.svg?style=flat" height="35">
+<img alt="AI" src="https://img.shields.io/badge/Artificial%20Intelligence-%2300BFFF.svg?style=flat&logo=OpenAI&logoColor=white" height="35"> <img alt="RAG" src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blue?style=flat" height="35"> <img alt="Gemini API" src="https://img.shields.io/badge/Real%20Time%20Gemini%20API-%234B8BBE.svg?style=flat" height="35"> <img alt="AI Model Integration" src="https://img.shields.io/badge/AI%20Model%20Integration-%2300BFFF.svg?style=flat" height="35"> <img alt="Multimodal Integration" src="https://img.shields.io/badge/Multimodal%20Integration-%2300C49A.svg?style=flat" height="35"> <img alt="n8n" src="https://img.shields.io/badge/N8N-A6E3A1?style=flat&logo=n8n&logoColor=white" height="35"> <img alt="No-Code Platforms" src="https://img.shields.io/badge/No--Code%20Tools-%23F4B400.svg?style=flat" height="35">
 
 ### ☁️ Cloud & DevOps:
 
@@ -42,7 +42,7 @@
 
 ### 🔌 Dev Tools:
 
-<img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white" height="35"> <img alt="GitHub" src="https://img.shields.io/badge/Github-%23121011.svg?style=flat&logo=github&logoColor=white" height="35"> <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-%230047B3.svg?style=flat&logo=bitbucket&logoColor=white" height="35"> <img alt="n8n" src="https://img.shields.io/badge/N8N-A6E3A1?style=flat&logo=n8n&logoColor=white" height="35"> <img alt="No-Code Platforms" src="https://img.shields.io/badge/No--Code%20Tools-%23F4B400.svg?style=flat" height="35">
+<img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white" height="35"> <img alt="GitHub" src="https://img.shields.io/badge/Github-%23121011.svg?style=flat&logo=github&logoColor=white" height="35"> <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-%230047B3.svg?style=flat&logo=bitbucket&logoColor=white" height="35">
 
 ### 💳 Payments:
 
